@@ -35,6 +35,11 @@ void func4()
   cout << "base work 4 " << endl;
 }
 
+void func5()
+{
+  cout << "base work 5 " << endl;
+}
+
 void Bfunc1()
 {
   cout << "branch func1" << endl;
