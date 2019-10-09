@@ -28,4 +28,13 @@ void func2 ()
 void func3()
 {
   cout << "base work 3 " << endl;
+
+void Bfunc1()
+{
+  cout << "branch func1" << endl;
+}
+
+void Bfun2()
+{
+  cout << "branch func2 " << endl;
 }
