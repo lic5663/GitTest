@@ -19,3 +19,8 @@ void func1 ()
 {
   cout << "base work" << endl;
 }
+
+void func2 ()
+{
+  cout << "base work 2 " << endl;
+}
