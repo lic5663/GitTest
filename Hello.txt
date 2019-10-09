@@ -44,3 +44,8 @@ void Bfun2()
 {
   cout << "branch func2 " << endl;
 }
+
+void B2func1()
+{
+  cout << "branch2 func1 " << endl;
+}
