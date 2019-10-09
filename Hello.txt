@@ -28,6 +28,12 @@ void func2 ()
 void func3()
 {
   cout << "base work 3 " << endl;
+}
+
+void func4()
+{
+  cout << "base work 4 " << endl;
+}
 
 void Bfunc1()
 {
