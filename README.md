@@ -5,6 +5,5 @@ haha
 it is test.
 haha fat a chance.
 
-This was triumph.
-I'm making a note here: Huge success.
-It's hard to overstate my satisfaction.
+This is triump.
+I'm making a note here a huge success.
