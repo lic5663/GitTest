@@ -24,3 +24,8 @@ void func2 ()
 {
   cout << "base work 2 " << endl;
 }
+
+void func3()
+{
+  cout << "base work 3 " << endl;
+}
