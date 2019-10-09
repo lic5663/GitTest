@@ -14,3 +14,8 @@ int main(void)
 {
   cout << "Hello" << endl;
 }
+
+void func1 ()
+{
+  cout << "base work" << endl;
+}
